@@ -50,5 +50,11 @@ A Regression type prediction model using *Random Forest Classifier* algorithm. I
   ##### Docker Hub
 ![image](https://github.com/user-attachments/assets/fd1f0e96-28c3-4bbf-9050-db251b9f911e)
 
+Selenium
+
+integrated flask into app.py. And build an html file called index.html inside templates folder.
+created selenium_test.py file which contains the selenium code for autotesting app.py
+
+![image](https://github.com/user-attachments/assets/973f8c08-0c69-4793-b039-b0d084f1d2ab)
 
 
